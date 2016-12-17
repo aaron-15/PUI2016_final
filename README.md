@@ -9,5 +9,5 @@ Work alone. If you have questions feel free to ask them to your instructors and 
 
 There are shortcuts: for example you can use census data that is already wrangled and merged. Make sure you notice the shortcuts!
 
-# Motivation:
+### Motivation:
 One of the things that make NYC so interesting to study is its diversity on many axes: ethnic, economic, cultural. Neighborohoods tend to be segregated and clustered on most socioeconomic characteristics, however these characteristics do evolve in time. The goal is to identify NYC neighborhoods that are homogeneous by clustering their socioeconomic characteristics in 2000, and in 2010, and find the neighborhoods that change cluster, indicating that they evolve differently with respect to their cluster peers (e.g. gentrification).
